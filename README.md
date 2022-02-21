@@ -65,3 +65,69 @@ Figure 6: Confusion matrix (on test data) obtained on classifying 9 categories 
 
 ##### 6. Acknowledgements
 We thank Anand Mohan for his enormous help in web design and data collection efforts, which allowed the recording of data from general public. We also thank Chandrika Thunga, Sonali Singh, Sakya Basak, Venkat Krishnamohan, Jaswanth Reddy, Ananya Muguli, Anirudh Sreeram and Anagha Rajeev for their contribution in annotating the dataset.
+
+###### 7. References
+[1] “Naming the coronavirus disease (COVID-19) and the virus
+that causes it,” World Health Organization. https://www.who.
+int/emergencies/diseases/novel-coronavirus-2019/technicalguidance/naming-the-coronavirus-disease-(covid-2019)-and-thevirus-that-causes-it, 2020.
+[2] C. Menni, A. M. Valdes, M. B. Freidin, C. H. Sudre, L. H.
+Nguyen, D. A. Drew, S. Ganesh, T. Varsavsky, M. J. Cardoso,
+J. S. El-Sayed Moustafa, A. Visconti, P. Hysi, R. C. E.
+Bowyer, M. Mangino, M. Falchi, J. Wolf, S. Ourselin,
+A. T. Chan, C. J. Steves, and T. D. Spector, “Realtime tracking of self-reported symptoms to predict potential
+COVID-19,” Nature Medicine, 2020. [Online]. Available:
+https://doi.org/10.1038/s41591-020-0916-2
+[3] J. E. Huber and E. T. Stathopoulos, Speech Breathing Across the
+Life Span and in Disease. John Wiley & Sons, Ltd, 2015, ch. 2,
+pp. 11–33.
+[4] W. Thorpe, M. Kurver, G. King, and C. Salome, “Acoustic analysis of cough,” in The Seventh Australian and New Zealand Intelligent Information Systems Conference. IEEE, 2001, pp. 391–394.
+[5] M. Polverino, F. Polverino, M. Fasolino, F. Ando, A. Alfieri, and `
+F. De Blasio, “Anatomy and neuro-pathophysiology of the cough
+reflex arc,” Multidisciplinary respiratory medicine, vol. 7, no. 1,
+p. 5, 2012.
+[6] G. A. Fontana and J. Widdicombe, “What is cough and what
+should be measured?” Pulmonary pharmacology & therapeutics,
+vol. 20, no. 4, pp. 307–312, 2007.
+[7] C. Pham, “Mobicough: Real-time cough detection and monitoring using low-cost mobile devices,” in Intelligent Information and
+Database Systems, N. T. Nguyen, B. Trawinski, H. Fujita, and T.- ´
+P. Hong, Eds. Berlin, Heidelberg: Springer Berlin Heidelberg,
+2016, pp. 300–309.
+[8] R. X. A. Pramono, S. A. Imtiaz, and E. Rodriguez-Villegas, “A
+cough-based algorithm for automatic diagnosis of pertussis,” PloS
+one, vol. 11, no. 9, 2016.
+[9] A. Windmon, M. Minakshi, P. Bharti, S. Chellappan, M. Johansson, B. A. Jenkins, and P. R. Athilingam, “Tussiswatch: A smartphone system to identify cough episodes as early symptoms of
+chronic obstructive pulmonary disease and congestive heart failure,” IEEE journal of biomedical and health informatics, vol. 23,
+no. 4, pp. 1566–1573, 2018.
+[10] G. Botha, G. Theron, R. Warren, M. Klopper, K. Dheda,
+P. Van Helden, and T. Niesler, “Detection of tuberculosis by automatic cough sound analysis,” Physiological measurement, vol. 39,
+no. 4, p. 045005, 2018.
+[11] P. Porter, U. Abeyratne, V. Swarnkar, J. Tan, T.-w. Ng, J. M. Brisbane, D. Speldewinde, J. Choveaux, R. Sharan, K. Kosasih et al.,
+“A prospective multicentre study testing the diagnostic accuracy
+of an automated cough sound centred analytic system for the identification of common respiratory disorders in children,” Respiratory research, vol. 20, no. 1, p. 81, 2019.
+[12] “Cambridge university, UK - COVID-19 sounds app,” Weblink
+https://covid-19-sounds.org/en/, last accessed May 8, 2020.
+[13] “CMU sounds for covid project,” Weblink
+https://node.dev.cvd.lti.cmu.edu/, last accessed May 8, 2020.
+[14] “Cough against covid - wadhwani AI institute,” Weblink
+https://coughagainstcovid.org/, 2020.
+[15] “Cough for COVID-19 detection,” Weblink
+https://coughvid.epfl.ch/, last accessed May 8, 2020.
+[16] A. Imran, I. Posokhova, H. N. Qureshi, U. Masood, S. Riaz,
+K. Ali, C. N. John, and M. Nabeel, “AI4COVID-19: AI enabled
+preliminary diagnosis for COVID-19 from cough samples via an
+app,” arXiv preprint arXiv:2004.01275, 2020.
+[17] K. Anderson, Y. Qiu, A. R. Whittaker, and M. Lucas, “Breath
+sounds, asthma, and the mobile phone,” The Lancet, vol. 358, no.
+9290, pp. 1343–1344, 2001.
+[18] “Breathing sounds for COVID-19,” Weblink
+https://breatheforscience.com/, last accessed May 8, 2020.
+[19] L. Lee, R. G. Loudon, B. H. Jacobson, and R. Stuebing, “Speech
+breathing in patients with lung disease,” American Review of Respiratory Disease, vol. 147, pp. 1199–1199, 1993.
+[20] A. Chang and M. P. Karnell, “Perceived phonatory effort and
+phonation threshold pressure across a prolonged voice loading
+task: a study of vocal fatigue,” Journal of Voice, vol. 18, no. 4,
+pp. 454–466, 2004.
+[21] C. M. Sapienza, E. T. Stathopoulos, and W. Brown Jr, “Speech
+breathing during reading in women with vocal nodules,” Journal
+of Voice, vol. 11, no. 2, pp. 195–201, 1997.
+[22] “Indian institute of science - Coswara: A sound based diagnostic tool for covid19,” Weblink https://coswara.iisc.ac.in/, last accessed May 8, 20
