@@ -1,5 +1,7 @@
 # Project-Coswara-Analysis
-Just a walkthrough of the research paper on coswara 2020 by IISC Bengaluru
+1. Just a walkthrough of the research paper on coswara 2020 by IISC Bengaluru.
+2. This paper falls under the category of Audio and Speech Processing using Machine Learning.
+
 
 # Paper link : https://arxiv.org/pdf/2005.10548.pdf
 
